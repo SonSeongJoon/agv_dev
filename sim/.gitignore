@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+share/python-wheels/
+*.pyc
+
+sim/
+
+position.json
+.vscode/settings.json
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+log.txt
+agv.txt
+position.txt

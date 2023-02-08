@@ -1,0 +1,40 @@
+*/.ipynb_checkpoints/*
+*/__pycache__/
+*.pyc
+
+# dependencies
+*/node_modules
+*/.pnp
+*.pnp.js
+
+# testing
+*/coverage
+
+# production
+*/build
+
+# misc
+*.DS_Store
+*.env.local
+*.env.development.local
+*.env.test.local
+*.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+share/python-wheels/
+*.pyc
+
+sim/position.json
+sim/.vscode/settings.json
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+sim/log.txt
+sim/agv.txt
+sim/position.txt
